@@ -1,0 +1,9 @@
+.album {
+    width: 200px;
+    height: 200px;
+}
+.album:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    border: 1px solid #aaaaaa;
+}
