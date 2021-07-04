@@ -1,6 +1,6 @@
 import React from 'react'
 import {render,screen,cleanup} from '@testing-library/react'
-import Login from '../../pages/Login'
+import Login from '../Login'
 import {validateUser} from '../../actions'
 
 test('Login renders',()=>{
